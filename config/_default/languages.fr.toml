@@ -14,9 +14,9 @@ copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Benjamin Falière"
-  # image = "img/author.jpg"
-  headline = "Votre spécialiste informatique"
-  bio = "A little bit about you"
+  image = "img/bf.jpg"
+  headline = "Des solutions pour votre système d'information"
+  # bio = "A little bit about you"
   links = [
     { email = "mailto:benjamin@faliere.com" },
     { discord = "https://discordapp.com/users/1072064544131776593" },
