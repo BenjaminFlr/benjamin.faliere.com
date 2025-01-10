@@ -11,5 +11,17 @@
     
   
     
+      <url>
+            <loc>http://localhost:1313/posts/first/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/</loc>
+          </url>
+    
   
 </urlset>
