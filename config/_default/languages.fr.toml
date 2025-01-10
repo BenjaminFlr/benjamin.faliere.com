@@ -1,0 +1,29 @@
+languageCode = "fr"
+languageName = "French"
+languageDirection = "ltr"
+weight = 1
+
+title = "Benjamin Falière"
+copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+  name = "Benjamin Falière"
+  # image = "img/author.jpg"
+  headline = "Votre spécialiste informatique"
+  bio = "A little bit about you"
+  links = [
+    { email = "mailto:benjamin@faliere.com" },
+    { discord = "https://discordapp.com/users/1072064544131776593" },
+    { github = "https://github.com/BenjaminFlr" },
+    { linkedin = "https://www.linkedin.com/in/benjamin-fali%C3%A8re-820a28174/" },
+    { mastodon = "https://hostux.social/@BenjaminFaliere" },
+    { telegram = "https://t.me/BenjaminFlr" },
+    { whatsapp = "https://wa.me/0788128843" },
+    { bluesky = "https://bsky.app/profile/benjamin.faliere.com"},
+  ]
