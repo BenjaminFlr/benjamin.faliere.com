@@ -14,7 +14,7 @@ copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Benjamin Falière"
-  image = "img/bf.jpg"
+  # image = "img/bf.jpg"
   headline = "Des solutions pour votre système d'information"
   # bio = "A little bit about you"
   links = [
