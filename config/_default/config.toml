@@ -4,6 +4,7 @@
 
 baseURL = "https://benjamin.faliere.com/"
 defaultContentLanguage = "fr"
+theme = "congo"
 
 enableRobotsTXT = true
 summaryLength = 0
