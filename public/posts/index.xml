@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Congo! on Benjamin Falière</title>
+    <title>Les actualités et publications on Benjamin Falière</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Welcome to Congo! on Benjamin Falière</description>
+    <description>Recent content in Les actualités et publications on Benjamin Falière</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First article</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <title>Présentation</title>
+      <link>http://localhost:1313/posts/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>http://localhost:1313/posts/presentation/</guid>
       <description></description>
     </item>
   </channel>

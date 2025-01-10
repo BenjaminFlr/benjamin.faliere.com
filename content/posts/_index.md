@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Congo!"
-description: "This is a demo of adding content to the homepage."
+title: "Les actualités et publications"
+description: "Actualités et publication de Benjamin Falière"
 ---
-Welcome to my website! I'm really happy you stopped by.
+Retrouvez sur cette page l'ensemble de mes actualités et publications.
