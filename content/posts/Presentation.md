@@ -1,6 +1,7 @@
 ---
 title: "Présentation"
 description: "This is the first article"
+date: 2024-01-10
 ---
 Bonjour à toutes et à tous,
 
