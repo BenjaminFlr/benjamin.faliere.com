@@ -12,4 +12,4 @@ En Saône-et-Loire, c'est à **Chalon-sur-Saône** que se tiendra le prochain é
 
 Cet événement est soutenu par **Chalon Échanges et Partages** et en partenariat avec la **Maison de la famille** et la mairie de Chalon-sur-Saône.
 
-{{< embed-pdf url="../20250221_HyperSupers.pdf" >}}
+{{< embed-pdf url="/pdf/20250221_HyperSupers.pdf" >}}
