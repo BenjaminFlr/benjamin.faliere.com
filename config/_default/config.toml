@@ -4,7 +4,8 @@
 
 baseURL = "https://benjamin.faliere.com/"
 defaultContentLanguage = "fr"
-theme = "congo"
+theme = ["hugo-embed-pdf-shortcode", "congo"]
+enableInlineShortcodes = true
 
 enableRobotsTXT = true
 summaryLength = 0
