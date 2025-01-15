@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Les actualités et publications on Benjamin Falière</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://benjamin.faliere.com/posts/</link>
     <description>Recent content in Les actualités et publications on Benjamin Falière</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <copyright>© 2025 Benjamin Falière</copyright>
     <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://benjamin.faliere.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TDAH : Diagnostic et accompagnement</title>
-      <link>http://localhost:1313/posts/20250221_hypersupers/hypersupers/</link>
+      <link>https://benjamin.faliere.com/posts/20250221_hypersupers/hypersupers/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250221_hypersupers/hypersupers/</guid>
+      <guid>https://benjamin.faliere.com/posts/20250221_hypersupers/hypersupers/</guid>
       <description></description>
     </item>
   </channel>
