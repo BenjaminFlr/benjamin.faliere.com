@@ -1,8 +1,8 @@
 ---
 title: "TDAH : Diagnostic et accompagnement"
 description: "Réunion d'information le 21 février 2025 à Chalon-sur-Saône"
-date: 2024-01-15
-topics: ["TDAH", "TDAH France", "HyperSupers", "Chalon-sur-Saône"] 
+date: 2025-01-15
+tags: ["TDAH", "HyperSupers", "Associatif", "Événements"]
 ---
 Je suis depuis toujours actif dans le milieu **associatif**, de l'organisation d'événements locaux à [Exodus Privacy](https://exodus-privacy.eu.org/fr/) en passant par [HyperSupers TDAH France](https://www.tdah-france.fr/). C'est de cette dernière dont je vais parler aujourd'hui.
 

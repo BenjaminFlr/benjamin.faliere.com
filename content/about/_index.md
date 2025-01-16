@@ -20,4 +20,4 @@ Ainsi, je peux vous accompagner sur les besoins suivant :
 - Logiciel de gestion d'entreprise (**Dolibarr**)
 - Logiciel de stockage et partage de documents (**NextCloud**)
 
-Vous avez des questions ? Des besoins ? N'hésitez pas à me contacter directement par mail ou via les différents réseaux sur lesquels je suis présent.
+Vous avez des questions ? Des besoins ? N'hésitez pas à me contacter directement par mail ({{< cloakemail address="benjamin@faliere.com" >}}) ou via les [différents réseaux](..) sur lesquels je suis présent.

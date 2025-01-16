@@ -4,7 +4,7 @@
 
 baseURL = "https://benjamin.faliere.com/"
 defaultContentLanguage = "fr"
-theme = ["hugo-embed-pdf-shortcode", "congo"]
+theme = ["hugo-cloak-email", "hugo-embed-pdf-shortcode", "congo"]
 enableInlineShortcodes = true
 
 enableRobotsTXT = true
