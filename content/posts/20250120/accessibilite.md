@@ -4,6 +4,8 @@ description: "Essayer d'améliorer l'accessibilité du logiciel libre pour le re
 date: 2025-01-20
 tags: ["Accessibilité", "Logiciel libre", "Dolibarr"]
 ---
+![Logo Dolibarr](/img/dolibarr_logo.svg)
+
 S'il y a bien un reproche qui revient régulièrement concernant le **logiciel libre**, c'est son interface utilisateur (UI) ainsi que l'expérience utilisateur (UX) qui en découle.
 La raison est plutôt simple : la plupart des contributrices et contributeurs sont avant tout des personnes qui font du développement, et pas des personnes ayant une expertise en UI/UX. Et ça se ressent.
 
