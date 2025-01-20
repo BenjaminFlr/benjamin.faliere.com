@@ -2,10 +2,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://benjamin.faliere.com/"
+baseURL = "https://faliere.com/"
 defaultContentLanguage = "fr"
 theme = ["hugo-cloak-email", "hugo-embed-pdf-shortcode", "congo"]
 enableInlineShortcodes = true
+timeZone = "Europe/Paris"
 
 enableRobotsTXT = true
 summaryLength = 0
