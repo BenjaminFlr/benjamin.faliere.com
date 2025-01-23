@@ -11,14 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Qui ?"
+  pageRef = "qui"
+  weight = 10
+
+[[main]]
   name = "Actualités"
   pageRef = "posts"
   weight = 20
-
-[[main]]
-  name = "À propos"
-  pageRef = "about"
-  weight = 30
 
 [[main]]
   identifier = "search"
@@ -26,11 +26,11 @@
   [main.params]
     action = "search"
 
-# [[main]]
-#   identifier = "locale"
-#   weight = 100
-#   [main.params]
-#     action = "locale"
+[[main]]
+  name = "Services"
+  pageRef = "services"
+  weight = 15
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
